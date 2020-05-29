@@ -9,7 +9,7 @@ def my_collect(array)
     index += 1
   end
 
-# return a modified array
+  modified array
 end
 
 # array = ["Tim Jones", "Tom Smith", "Jim Campagno"]

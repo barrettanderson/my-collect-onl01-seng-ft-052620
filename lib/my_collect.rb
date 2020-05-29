@@ -1,15 +1,16 @@
 
 def my_collect(array)
 
+  modified_array = []
   index = 0
 
   while index < array.length
-    yield(array[index])
+    modified_array << yield(array[index])
     index += 1
   end
 
+# return a modified array
 end
-
 
 # array = ["Tim Jones", "Tom Smith", "Jim Campagno"]
 

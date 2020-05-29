@@ -3,7 +3,6 @@ def my_collect(array)
 
 end
 
-arr
 
 # array = ["Tim Jones", "Tom Smith", "Jim Campagno"]
 
